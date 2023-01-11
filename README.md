@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ernst Thelifort</h1>
-<h3 align="center">A passionate full stack web developer/software engineer based in Florida. I enjoy creating ideas and implementing them into reality.</h3>
+<h3 align="center">A passionate Full Stack Software Engineer based in Florida. I enjoy crafting ideas and executing them into reality .</h3>
 
 - 👯 I’m looking to collaborate on **Open source projects, freelance projects**
 

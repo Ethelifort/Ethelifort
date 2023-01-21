@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ernst Thelifort</h1>
 <h3 align="center">A passionate Full Stack Software Engineer based in Florida. I enjoy crafting ideas and executing them into reality.</h3>
 
-<p align="left"> <a href="https://twitter.com/ecodes8" target="blank"><img src="https://img.shields.io/twitter/follow/ecodes8?logo=twitter&style=for-the-badge" alt="ecodes8" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Open source projects, freelance projects**
 

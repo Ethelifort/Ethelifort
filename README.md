@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Full Stack Software Engineer based in Florida. I enjoy crafting ideas and executing them into reality.</h3>
 
 
-- 👯 I’m looking to collaborate on **Open source projects, freelance projects**
 
 - 👨‍💻 All of my projects are available at [https://ernst-thelifort.netlify.app/](https://ernst-thelifort.netlify.app/)
 

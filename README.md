@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ernst Thelifort</h1>
-<h3 align="center">Passionate Full Stack Software Engineer based in Florida. I enjoy crafting ideas and implementing them into reality.</h3>
+<h3 align="center">Passionate Full Stack Software Engineer based in Florida. I like crafting ideas and implementing them into reality.</h3>
 
 
 
